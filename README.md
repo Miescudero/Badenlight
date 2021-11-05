@@ -1,7 +1,10 @@
 # Badenlight
 
 Alunos: Thiago Pereira Alves, Bruno Fuzeira Chaul, Letícia da Silva Bezerra
+
 Turma: D1 - Análise e desenvolvimento de sistemas
+
+email: letticiavolgues@gmail.com
 
 Projeto em C com o objetivo de criar um banco virtual onde é necessário:
 
